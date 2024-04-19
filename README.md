@@ -7,6 +7,7 @@ Conventional silicon-based cameras face limitations in capturing visible images 
 
 Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranza, and Ruben Ramos-Garcia, "Deep-learning blurring correction of images obtained from NIR single-pixel imaging," J. Opt. Soc. Am. A 40, 1491-1499 (2023)
 
+![test_blur](https://github.com/1Px-Vision/Deep-learning-blurring/assets/150855410/f8248345-7aa6-4bb8-888f-2ffbc27319d7)
 
 @article{OsorioQuero:23,
 author = {Carlos Osorio Quero and Daniel Durini and Jose Rangel-Magdaleno and Jose Martinez-Carranza and Ruben Ramos-Garcia},
@@ -22,4 +23,6 @@ year = {2023},
 url = {https://opg.optica.org/josaa/abstract.cfm?URI=josaa-40-8-1491},
 doi = {10.1364/JOSAA.488549},
 }
+
+
 
