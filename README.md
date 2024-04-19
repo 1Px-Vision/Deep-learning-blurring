@@ -9,6 +9,8 @@ Carlos Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carranz
 
 ![test_blur](https://github.com/1Px-Vision/Deep-learning-blurring/assets/150855410/f8248345-7aa6-4bb8-888f-2ffbc27319d7)
 
+Please check out the following references for more details:
+
 @article{OsorioQuero:23,
 author = {Carlos Osorio Quero and Daniel Durini and Jose Rangel-Magdaleno and Jose Martinez-Carranza and Ruben Ramos-Garcia},
 journal = {J. Opt. Soc. Am. A},
