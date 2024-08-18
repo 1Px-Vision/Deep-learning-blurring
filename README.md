@@ -29,4 +29,8 @@ doi = {10.1364/JOSAA.488549},
 }
 
 
+## Contributing
+Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
 
+## Contact
+For any questions or inquiries, please contact caoq@1px-vision.com
